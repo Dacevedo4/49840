@@ -1,0 +1,8 @@
+x == 5; // Error: "==" no está permitido, solo "="
+y = 10;
+console.log(x + y);
+
+switch x) { // Error: falta el paréntesis de apertura
+    case 5:
+        console.log("Cinco");
+}

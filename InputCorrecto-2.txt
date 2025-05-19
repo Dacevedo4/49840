@@ -1,0 +1,18 @@
+usuario = "Carlos";
+edad = 30;
+console.log("Nombre del usuario:");
+console.log(usuario);
+console.log("Edad del usuario:");
+console.log(edad);
+
+switch(edad) {
+    case 18:
+        mensaje = "Es mayor de edad";
+        console.log(mensaje);
+    case 30:
+        mensaje = "Treinta años";
+        console.log(mensaje);
+    default:
+        mensaje = "Edad desconocida";
+        console.log(mensaje);
+}

@@ -1,0 +1,15 @@
+x = 5;
+y = 10;
+mensaje = "El resultado es:";
+console.log(mensaje);
+console.log(x + y);
+
+switch(x) {
+    case 1:
+        console.log("Uno");
+    case 5:
+        resultado = x + y;
+        console.log(resultado);
+    default:
+        console.log("Valor no esperado");
+}

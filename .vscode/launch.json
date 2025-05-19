@@ -1,0 +1,41 @@
+{
+  "version": "2.0.0",
+  "configurations": [
+    {
+      "name": "ANTLR - InputCorrecto-1",
+      "type": "antlr-debug",
+      "request": "launch",
+      "input": "InputCorrecto-1.txt",
+      "grammar": "SimpleLang.g4",
+      "printParseTree": true,
+      "visualParseTree": true
+    },
+    {
+      "name": "ANTLR - InputCorrecto-2",
+      "type": "antlr-debug",
+      "request": "launch",
+      "input": "InputCorrecto-2.txt",
+      "grammar": "SimpleLang.g4",
+      "printParseTree": true,
+      "visualParseTree": true
+    },
+    {
+      "name": "ANTLR - InputIncorrecto-1",
+      "type": "antlr-debug",
+      "request": "launch",
+      "input": "InputIncorrecto-1.txt",
+      "grammar": "SimpleLang.g4",
+      "printParseTree": true,
+      "visualParseTree": true
+    },
+    {
+      "name": "ANTLR - InputIncorrecto-2",
+      "type": "antlr-debug",
+      "request": "launch",
+      "input": "InputIncorrecto-2.txt",
+      "grammar": "SimpleLang.g4",
+      "printParseTree": true,
+      "visualParseTree": true
+    }
+  ]
+}

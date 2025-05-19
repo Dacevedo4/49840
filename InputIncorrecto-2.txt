@@ -1,0 +1,11 @@
+nombre = "Ana";
+console.log(nombre)
+
+switch(10) {
+    case 10:
+        mensaje = "Diez";
+        console.log(mensaje);
+    case: // Error: falta expresión después de 'case'
+        mensaje = "Sin número";
+    default:
+        console.log("Ningún caso válid
