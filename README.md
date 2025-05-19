@@ -24,4 +24,4 @@ Ahora veremos que sucede cuando esta mal desarrollado el ejemplo (InputIncorrect
 ![Antlr npm incorrecto 2](https://github.com/user-attachments/assets/ac5b678b-1e9f-4e53-b4c2-128350ec9a3e)
 ![Antlr npm incorrecto 1](https://github.com/user-attachments/assets/3682cbee-0b5c-4e06-ab50-ab91cfb35861)
 
-Aca observamos todos los errores que tiene y en que linea.
+Aca observamos que si se realiza la tabla de tokens y lexemas , pero no el arbol y nos dice que es lo que esta mal y en que linea esta.
